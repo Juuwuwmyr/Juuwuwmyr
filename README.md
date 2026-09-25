@@ -5,7 +5,7 @@
 
   <br/><br/>
 
-  <!-- PROFILE PICTURE WITH GLOWING BORDER -->
+  <!-- PROFILE PICTURE -->
   <a href="https://github.com/Juuwuwmyr">
     <img src="https://github.com/Juuwuwmyr.png" width="180" height="180" alt="Juuwuwmyr Profile Picture" />
   </a>
@@ -39,7 +39,7 @@
 | 🔭 **Current Focus** | Building high-performance web applications & UI components |
 | 🌱 **Learning** | Advanced Full-Stack Architecture & Cloud Technologies |
 | 💬 **Ask Me About** | JavaScript, Web Design, System Automation & UI/UX |
-| ⚡ **Fun Fact** | Customizing GitHub profiles to look sleek & modern! |
+| ⚡ **Fun Fact** | I love customizing GitHub profiles to look sleek & modern! |
 
 </div>
 
@@ -47,16 +47,11 @@
 
 ### 🛠️ <samp>Tech Stack & Ecosystem</samp>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,git,github&theme=dark&perline=4" alt="My Tech Stack" />
+  </a>
+</div>
 
 ---
 
