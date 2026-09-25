@@ -1,44 +1,13 @@
 <div align="center">
 
-  <!-- TOP DECORATIVE WAVE -->
+  <!-- TOP DECORATIVE WAVE AREA -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header" width="100%"/>
   
   <br/>
   
-  <!-- 🔥 ANIMATED & GLOWING PROFILE AVATAR (VIA SVG ANIMATION) 🔥 -->
+  <!-- MALAKI AT BILOG NA PROFILE PICTURE -->
   <a href="https://github.com/Juuwuwmyr">
-    <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <!-- Animated Glowing Linear Gradient -->
-        <linearGradient id="glowGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#A855F7">
-            <animate attributeName="stop-color" values="#A855F7;#EC4899;#3B82F6;#A855F7" dur="4s" repeatCount="indefinite" />
-          </stop>
-          <stop offset="100%" stop-color="#3B82F6">
-            <animate attributeName="stop-color" values="#3B82F6;#A855F7;#EC4899;#3B82F6" dur="4s" repeatCount="indefinite" />
-          </stop>
-        </linearGradient>
-
-        <!-- Circular Clip Path for Avatar -->
-        <clipPath id="avatarClip">
-          <circle cx="100" cy="100" r="85" />
-        </clipPath>
-
-        <!-- Glow Effect Filter -->
-        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-          <feGaussianBlur stdDeviation="8" result="blur" />
-          <feComposite in="SourceGraphic" in2="blur" operator="over" />
-        </filter>
-      </defs>
-
-      <!-- Animated Outer Border Circle -->
-      <circle cx="100" cy="100" r="92" fill="none" stroke="url(#glowGradient)" stroke-width="8" filter="url(#glow)">
-        <animate attributeName="stroke-width" values="6;10;6" dur="2s" repeatCount="indefinite" />
-      </circle>
-
-      <!-- Profile Image -->
-      <image href="https://github.com/Juuwuwmyr.png" x="15" y="15" width="170" height="170" clip-path="url(#avatarClip)" />
-    </svg>
+    <img src="https://github.com/Juuwuwmyr.png" width="180" height="180" alt="Juuwuwmyr Profile Picture" />
   </a>
 
   <br/>
