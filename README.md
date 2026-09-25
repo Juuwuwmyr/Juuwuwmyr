@@ -5,19 +5,10 @@
   
   <br/>
   
-  <!-- 🔥 BIGGER PROFILE PIC WITH BIGGER, ANIMATED GLOWING BORDER 🔥 -->
+  <!-- BIGGER PROFILE PICTURE WITH CLEAN BORDER -->
   <a href="https://github.com/Juuwuwmyr">
-    <img src="https://github.com/Juuwuwmyr.png" alt="Juuwuwmyr Profile Picture" width="180" style="border-radius: 50%; border: 8px solid #A855F7; box-shadow: 0 0 30px #A855F7, 0 0 60px #8B5CF6; transition: 0.5s; cursor: pointer; transform: scale(1.05); animation: pulse_border 2s infinite;"/>
+    <img src="https://github.com/Juuwuwmyr.png" alt="Juuwuwmyr Profile Picture" width="180" height="180" style="border-radius: 50%; border: 6px solid #A855F7;" />
   </a>
-
-  <!-- Simple CSS for the Glowing Pulse Animation -->
-  <style>
-    @keyframes pulse_border {
-      0% { box-shadow: 0 0 20px #A855F7, 0 0 40px #8B5CF6; border-color: #A855F7; }
-      50% { box-shadow: 0 0 40px #D8B4FE, 0 0 80px #A855F7; border-color: #D8B4FE; }
-      100% { box-shadow: 0 0 20px #A855F7, 0 0 40px #8B5CF6; border-color: #A855F7; }
-    }
-  </style>
 
   <br/>
   <br/>
