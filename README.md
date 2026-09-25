@@ -1,5 +1,18 @@
 <div align="center">
 
+  <!-- TOP DECORATIVE WAVE & PROFILE PIC AREA -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=150&section=header" width="100%"/>
+  
+  <br/>
+  
+  <!-- CIRCULAR PROFILE PICTURE WITH GLOW EFFECT -->
+  <a href="https://github.com/Juuwuwmyr">
+    <img src="https://avatars.githubusercontent.com/u/161405021?v=4" alt="Juuwuwmyr Profile Picture" width="120" style="border-radius: 50%; box-shadow: 0 0 20px rgba(168, 85, 247, 0.7); border: 4px solid rgba(255, 255, 255, 0.3);" />
+  </a>
+
+  <br/>
+  <br/>
+
   <!-- Animated Header Banner -->
   <a href="https://github.com/Juuwuwmyr">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vcenter=true&width=600&height=60&lines=Hey+there!+I'm+Juuwuwmyr+%F0%9F%90%BE;Welcome+to+my+GitHub+Profile!;Building+cool+stuff+%26+learning+daily!" alt="Typing SVG" />
@@ -15,9 +28,6 @@
   </p>
 
   <br/>
-
-  <!-- Top Decorative Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=header" width="100%"/>
 
 </div>
 
@@ -52,48 +62,10 @@
 
 ---
 
-### 📊 Advanced Infographic Metrics
-
-<!-- GitHub Metrics Action Integration -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/github-metrics.svg" alt="GitHub Metrics" width="90%" />
-</div>
-
----
-
-### 📈 GitHub Stats & Overview
+### 📊 GitHub Infographic & 3D Isometric Calendar
 
 <div align="center">
-  <a href="https://github.com/Juuwuwmyr">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Juuwuwmyr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Juuwuwmyr">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuwuwmyr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Juuwuwmyr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juuwuwmyr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-### 🐍 Contribution Calendar & Snake Game
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/output/github-contribution-grid-snake.svg" alt="Snake Animation Calendar" width="100%" />
-</div>
-
----
-
-### 🗓️ 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.puzzle3d.workers.dev/part/calendar?username=Juuwuwmyr&theme=dark" alt="3D Calendar" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Juuwuwmyr/Juuwuwmyr@main/github-metrics.svg" alt="GitHub Metrics" width="95%" />
 </div>
 
 ---
@@ -108,16 +80,6 @@
 | 🐍 **Snake Game** | Eat dots and grow longer | [Play Now](https://playsnake.org/) |
 | ♟️ **Chess** | Challenge players or AI | [Play Now](https://www.chess.com/) |
 
-</div>
-
----
-
-### 📂 Featured Repository
-
-<div align="center">
-  <a href="https://github.com/Juuwuwmyr/Juuwuwmyr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=Juuwuwmyr&theme=tokyonight&hide_border=true" alt="Profile Repo" />
-  </a>
 </div>
 
 ---
