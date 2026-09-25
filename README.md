@@ -5,9 +5,9 @@
   
   <br/>
   
-  <!-- CIRCULAR PROFILE PICTURE WITH GLOW EFFECT -->
+  <!-- OFFICIAL GITHUB PROFILE PICTURE -->
   <a href="https://github.com/Juuwuwmyr">
-    <img src="https://avatars.githubusercontent.com/u/161405021?v=4" alt="Juuwuwmyr Profile Picture" width="120" style="border-radius: 50%; box-shadow: 0 0 20px rgba(168, 85, 247, 0.7); border: 4px solid rgba(255, 255, 255, 0.3);" />
+    <img src="https://github.com/Juuwuwmyr.png" alt="Juuwuwmyr Profile Picture" width="130" style="border-radius: 50%; box-shadow: 0 0 20px rgba(168, 85, 247, 0.7); border: 4px solid rgba(255, 255, 255, 0.3);" />
   </a>
 
   <br/>
