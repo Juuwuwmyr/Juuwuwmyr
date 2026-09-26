@@ -1,5 +1,5 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=140&section=header&text=Jumyr%20M.%20Moreno&fontSize=38&fontColor=fff&animation=twinkling" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=160&section=header&text=Jumyr%20M.%20Moreno&fontSize=42&fontColor=fff&animation=twinkling&desc=Full-stack%20%26%20Mobile%20Developer&descSize=16&descAlign=50&descAlignY=72" alt="Header" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Full-stack+%26+mobile+developer;Building+school+systems+%26+community+tools;Naujan%2C+Oriental+Mindoro+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing intro" />
@@ -7,9 +7,9 @@
 
 <p align="center">
   <a href="https://github.com/Juuwuwmyr"><img src="https://img.shields.io/badge/@Juuwuwmyr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://jumyrmoreno.infinityfreeapp.com/"><img src="https://img.shields.io/badge/portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/stack-JS%20%7C%20PHP%20%7C%20Dart-1e1e2e?style=for-the-badge" alt="Stack"/>
-  <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=views&color=8b5cf6&style=for-the-badge" alt="Views"/>
+  <a href="https://jumyrmoreno.infinityfreeapp.com/"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <img src="https://img.shields.io/badge/Stack-JS%20%7C%20PHP%20%7C%20Dart-1e1e2e?style=for-the-badge&logo=stackshare&logoColor=white" alt="Stack"/>
+  <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=Views&color=8b5cf6&style=for-the-badge" alt="Views"/>
 </p>
 
 <!-- code-styled profile -->
@@ -22,7 +22,7 @@ export default {
   name: "Jumyr M. Moreno",
   handle: "@Juuwuwmyr",
   role: "Full-stack & mobile developer",
-  location: "Naujan, Oriental Mindoro, PH",
+  location: "Naujan, Oriental Mindoro, PH 🇵🇭",
   portfolio: "https://jumyrmoreno.infinityfreeapp.com/",
 
   stack: {
@@ -88,69 +88,110 @@ $ echo $OPEN_TO
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juuwuwmyr&theme=radical" alt="Profile summary" />
 </p>
 
-
+---
 
 ### `featured.repos`
 
-<p align="center">
-  <a href="https://github.com/Juuwuwmyr/OSAS_WEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=OSAS_WEB&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="OSAS_WEB" />
-  </a>
-  <a href="https://github.com/Juuwuwmyr/E-CDN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=E-CDN&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="E-CDN" />
-  </a>
-  <a href="https://github.com/Juuwuwmyr/E-UtangMate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=E-UtangMate&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="E-UtangMate" />
-  </a>
-  <a href="https://github.com/Juuwuwmyr/EUT_WEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=EUT_WEB&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="EUT_WEB" />
-  </a>
-  <a href="https://github.com/Juuwuwmyr/RENOPHP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=RENOPHP&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="RENOPHP" />
-  </a>
-  <a href="https://github.com/Juuwuwmyr/Space-war-DSA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=Space-war-DSA&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="Space-war-DSA" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Juuwuwmyr/OSAS_WEB">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=OSAS_WEB&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="OSAS_WEB" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/School_System-6366f1?style=flat-square" alt="School System"/>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Juuwuwmyr/E-CDN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=E-CDN&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="E-CDN" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <a href="https://colegio-de-naujan.vercel.app"><img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="Live"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Juuwuwmyr/EUT_WEB">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=EUT_WEB&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="EUT_WEB" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+      <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Blade"/>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Juuwuwmyr/E-UtangMate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=E-UtangMate&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="E-UtangMate" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Juuwuwmyr/RENOPHP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=RENOPHP&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="RENOPHP" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Juuwuwmyr/Space-war-DSA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juuwuwmyr&repo=Space-war-DSA&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=818cf8&text_color=e2e8f0" alt="Space-war-DSA" />
+      </a>
+      <br/>
+      <img src="https://img.shields.io/badge/DSA_Practice-8b5cf6?style=flat-square&logo=thealgorithms&logoColor=white" alt="DSA"/>
+      <img src="https://img.shields.io/badge/Game-ec4899?style=flat-square&logo=gamejolt&logoColor=white" alt="Game"/>
+    </td>
+  </tr>
+</table>
+
+---
 
 <details>
 <summary><code>ls ~/repos</code> — all public repositories</summary>
 
-| Project | Language |
-| --- | --- |
-| [20minutes_a_day_learning_new_language](https://github.com/Juuwuwmyr/20minutes_a_day_learning_new_language) | — |
-| [20minutes_a_day_learning_new_language-python](https://github.com/Juuwuwmyr/20minutes_a_day_learning_new_language-python) | Python |
-| [2_player_tetris](https://github.com/Juuwuwmyr/2_player_tetris) | — |
-| [Batch--1--Moreno--Jumyr-M](https://github.com/Juuwuwmyr/Batch--1--Moreno--Jumyr-M) | — |
-| [ClassroomFinanceTracker](https://github.com/Juuwuwmyr/ClassroomFinanceTracker) | HTML |
-| [E-Attendance](https://github.com/Juuwuwmyr/E-Attendance) | — |
-| [E-CDN](https://github.com/Juuwuwmyr/E-CDN) | JavaScript |
-| [E-UtangMate](https://github.com/Juuwuwmyr/E-UtangMate) | Dart |
-| [EUT_Delivery](https://github.com/Juuwuwmyr/EUT_Delivery) | — |
-| [EUT_WEB](https://github.com/Juuwuwmyr/EUT_WEB) | Blade |
-| [fluffy-invention-](https://github.com/Juuwuwmyr/fluffy-invention-) | — |
-| [Jumyr](https://github.com/Juuwuwmyr/Jumyr) | — |
-| [Juuwuwmyr](https://github.com/Juuwuwmyr/Juuwuwmyr) | — |
-| [Maze_Game](https://github.com/Juuwuwmyr/Maze_Game) | — |
-| [Myrepository](https://github.com/Juuwuwmyr/Myrepository) | — |
-| [My_Portfolio](https://github.com/Juuwuwmyr/My_Portfolio) | — |
-| [OSAS_WEB](https://github.com/Juuwuwmyr/OSAS_WEB) | JavaScript |
-| [Point-of-Sale](https://github.com/Juuwuwmyr/Point-of-Sale) | — |
-| [Projects](https://github.com/Juuwuwmyr/Projects) | — |
-| [RENOPHP](https://github.com/Juuwuwmyr/RENOPHP) | PHP |
-| [Space-war-DSA](https://github.com/Juuwuwmyr/Space-war-DSA) | — |
+<br/>
+
+| Project | Language | Icon |
+| --- | --- | --- |
+| [20minutes_a_day_learning_new_language](https://github.com/Juuwuwmyr/20minutes_a_day_learning_new_language) | — | 📚 |
+| [20minutes_a_day_learning_new_language-python](https://github.com/Juuwuwmyr/20minutes_a_day_learning_new_language-python) | Python | 🐍 |
+| [2_player_tetris](https://github.com/Juuwuwmyr/2_player_tetris) | — | 🎮 |
+| [Batch--1--Moreno--Jumyr-M](https://github.com/Juuwuwmyr/Batch--1--Moreno--Jumyr-M) | — | 📁 |
+| [ClassroomFinanceTracker](https://github.com/Juuwuwmyr/ClassroomFinanceTracker) | HTML | 💰 |
+| [E-Attendance](https://github.com/Juuwuwmyr/E-Attendance) | — | 📋 |
+| [E-CDN](https://github.com/Juuwuwmyr/E-CDN) | JavaScript | 🌐 |
+| [E-UtangMate](https://github.com/Juuwuwmyr/E-UtangMate) | Dart | 📱 |
+| [EUT_Delivery](https://github.com/Juuwuwmyr/EUT_Delivery) | — | 🚚 |
+| [EUT_WEB](https://github.com/Juuwuwmyr/EUT_WEB) | Blade | 🖥️ |
+| [fluffy-invention-](https://github.com/Juuwuwmyr/fluffy-invention-) | — | 🧪 |
+| [Jumyr](https://github.com/Juuwuwmyr/Jumyr) | — | 👤 |
+| [Juuwuwmyr](https://github.com/Juuwuwmyr/Juuwuwmyr) | — | ⭐ |
+| [Maze_Game](https://github.com/Juuwuwmyr/Maze_Game) | — | 🌀 |
+| [Myrepository](https://github.com/Juuwuwmyr/Myrepository) | — | 📦 |
+| [My_Portfolio](https://github.com/Juuwuwmyr/My_Portfolio) | — | 🎨 |
+| [OSAS_WEB](https://github.com/Juuwuwmyr/OSAS_WEB) | JavaScript | 🏫 |
+| [Point-of-Sale](https://github.com/Juuwuwmyr/Point-of-Sale) | — | 🛒 |
+| [Projects](https://github.com/Juuwuwmyr/Projects) | — | 🗂️ |
+| [RENOPHP](https://github.com/Juuwuwmyr/RENOPHP) | PHP | 🐘 |
+| [Space-war-DSA](https://github.com/Juuwuwmyr/Space-war-DSA) | — | 🚀 |
 
 </details>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&animation=twinkling" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling" alt="Footer" width="100%" />
 
 <p align="center">
   <code>console.log("Let's build something useful.");</code>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Juuwuwmyr">@Juuwuwmyr</a>
+  <a href="https://github.com/Juuwuwmyr">
+    <img src="https://img.shields.io/badge/@Juuwuwmyr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
