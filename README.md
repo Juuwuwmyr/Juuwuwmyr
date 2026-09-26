@@ -1,18 +1,4 @@
-<!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=140&section=header&text=Jumyr%20M.%20Moreno&fontSize=38&fontColor=fff&animation=twinkling" alt="Header" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Full-stack+%26+mobile+developer;Building+school+systems+%26+community+tools;Naujan%2C+Oriental+Mindoro+%F0%9F%87%B5%F0%9F%87%AD" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Juuwuwmyr"><img src="https://img.shields.io/badge/@Juuwuwmyr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://jumyrmoreno.infinityfreeapp.com/"><img src="https://img.shields.io/badge/portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/stack-JS%20%7C%20PHP%20%7C%20Dart-1e1e2e?style=for-the-badge" alt="Stack"/>
-  <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=views&color=8b5cf6&style=for-the-badge" alt="Views"/>
-</p>
-
----
 
 ## Hi I'm Juuwuwmyr 👋
 
