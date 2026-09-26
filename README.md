@@ -3,7 +3,7 @@
 
 
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0f0f,50:00ff9f,100:0f0f0f&height=160&section=header&text=Juuwuwmyr&fontSize=45&fontColor=00ff9f&animation=blinking&fontAlignY=55&desc=Full-stack%20%26%20Mobile%20Developer&descSize=16&descFontColor=00cfff&descAlignY=75" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff9f,100:0d0d0d&height=200&section=header&text=Juuwuwmyr&fontSize=50&fontColor=0d0d0d&animation=fadeIn&fontAlignY=38&desc=Full-stack%20%26%20Mobile%20Developer&descSize=18&descFontColor=0d0d0d&descAlignY=58" alt="Header" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=640&lines=%3E+initializing+Juuwuwmyr.exe...;%3E+Full-stack+%26+mobile+developer;%3E+Naujan%2C+Oriental+Mindoro+%5BPH%5D;%3E+Building+school+systems+%26+community+tools" alt="Typing intro" />
