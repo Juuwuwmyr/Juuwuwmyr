@@ -16,7 +16,7 @@
 
 ## Hi I'm Juuwuwmyr 👋
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:ec4899&height=120&text=Jumyr%20M.%20Moreno&fontSize=32&fontColor=fff&desc=Full-stack%20%26%20Mobile%20Developer&descSize=16&descAlignY=75" alt="Juuwuwmyr" width="100%" />
+![Juuwuwmyr](https://github.com/Juuwuwmyr/Juuwuwmyr/blob/main/github_cover.png "Juuwuwmyr")
 
 :computer: *Full-stack & mobile developer* &nbsp; :desert_island: Living in Naujan, Oriental Mindoro :philippines:
 
