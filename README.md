@@ -1,5 +1,5 @@
 <!-- header -->
-<img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/header.png" alt="Header" width="100%" />
+<img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/github.png" alt="Header" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=17&duration=2200&pause=700&color=00FF9F&center=true&vCenter=true&width=700&lines=%3E+Booting+Juuwuwmyr.exe+............+OK;%3E+Loading+stack%3A+JS+%7C+TS+%7C+PHP+%7C+Dart+%7C+Python;%3E+Location+detected%3A+Naujan%2C+Oriental+Mindoro+%5BPH%5D;%3E+Projects%3A+OSAS_WEB+%7C+E-CDN+%7C+E-UtangMate;%3E+Status%3A+Open+to+collaboration+_;%3E+Connection+established+%E2%96%88" alt="Typing intro" />
