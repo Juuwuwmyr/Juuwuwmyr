@@ -1,21 +1,15 @@
-<!-- matrix header -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=80&pause=2000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=01001010+01110101+01110101+01110111+01110101+01110111+01101101+01111001+01110010;10110100+11001010+00110101+10101010+11010101+00101010+10101101+01010110+10101011" alt="binary" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=55&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=Juuwuwmyr" alt="name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=80&pause=2000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=11010010+01001010+10110101+01001011+10100101+10110100+10101101+01011010+10110101;00101101+10100101+01001010+11010100+01010011+10101100+10010101+01101010+01011010" alt="binary" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Booting+Juuwuwmyr.exe+...;%5BSYS%5D+Full-stack+%26+Mobile+Developer;%5BSYS%5D+Location%3A+Naujan%2C+Oriental+Mindoro+%5BPH%5D;%5BSYS%5D+Status%3A+Building+school+systems+%26+community+tools;%5BSYS%5D+Access+granted+_" alt="typing" />
-
-</div>
+<!-- header -->
+<img src="https://capsule-render.vercel.app/api?type=wave&height=220&text=Juuwuwmyr&fontSize=65&color=0:0d0d0d,100:00ff9f&fontColor=00ff9f&animation=twinkling&fontAlignY=40&desc=Full-stack%20%7C%20Mobile%20Developer%20%7C%20PH&descSize=18&descFontColor=00cfff&descAlignY=62" alt="Header" width="100%" />
 
 <p align="center">
-  <a href="https://github.com/Juuwuwmyr"><img src="https://img.shields.io/badge/@Juuwuwmyr-00ff41?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="GitHub"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=17&duration=2200&pause=700&color=00FF9F&center=true&vCenter=true&width=700&lines=%3E+Booting+Juuwuwmyr.exe+............+OK;%3E+Loading+stack%3A+JS+%7C+TS+%7C+PHP+%7C+Dart+%7C+Python;%3E+Location+detected%3A+Naujan%2C+Oriental+Mindoro+%5BPH%5D;%3E+Projects%3A+OSAS_WEB+%7C+E-CDN+%7C+E-UtangMate;%3E+Status%3A+Open+to+collaboration+_;%3E+Connection+established+%E2%96%88" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Juuwuwmyr"><img src="https://img.shields.io/badge/@Juuwuwmyr-00ff9f?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="GitHub"/></a>
   <a href="https://jumyrmoreno.infinityfreeapp.com/"><img src="https://img.shields.io/badge/portfolio-00cfff?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/stack-JS%20%7C%20PHP%20%7C%20Dart-0d0d0d?style=for-the-badge&color=0d0d0d&labelColor=00ff41" alt="Stack"/>
-  <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=views&color=00ff41&style=for-the-badge" alt="Views"/>
+  <img src="https://img.shields.io/badge/stack-JS%20%7C%20PHP%20%7C%20Dart-0d0d0d?style=for-the-badge" alt="Stack"/>
+  <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=views&color=00ff9f&style=for-the-badge" alt="Views"/>
 </p>
 
 ---
@@ -142,8 +136,8 @@ $ echo $OPEN_TO
 
 ⭐️ From [Juuwuwmyr](https://github.com/Juuwuwmyr)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d0d,100:00ff41&height=80&section=footer&text=_&fontSize=1&fontColor=00ff41&animation=twinkling" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00ff9f,100:0d0d0d&height=80&section=footer&text=_&fontSize=1&animation=twinkling" alt="Footer" width="100%" />
 
 <p align="center">
-  <code>// console.log("Access granted. Let's build something useful.");</code>
+  <code>// Access granted. Let's build something useful._</code>
 </p>
