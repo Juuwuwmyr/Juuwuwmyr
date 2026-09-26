@@ -1,6 +1,22 @@
 
 
-## Hi I'm Juuwuwmyr 👋
+
+
+<!-- header -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0f0f,50:00ff9f,100:0f0f0f&height=160&section=header&text=Juuwuwmyr&fontSize=45&fontColor=00ff9f&animation=blinking&fontAlignY=55&desc=Full-stack%20%26%20Mobile%20Developer&descSize=16&descFontColor=00cfff&descAlignY=75" alt="Header" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=640&lines=%3E+initializing+Juuwuwmyr.exe...;%3E+Full-stack+%26+mobile+developer;%3E+Naujan%2C+Oriental+Mindoro+%5BPH%5D;%3E+Building+school+systems+%26+community+tools" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Juuwuwmyr"><img src="https://img.shields.io/badge/@Juuwuwmyr-00ff9f?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="GitHub"/></a>
+  <a href="https://jumyrmoreno.infinityfreeapp.com/"><img src="https://img.shields.io/badge/portfolio-00cfff?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d" alt="Portfolio"/></a>
+  <img src="https://img.shields.io/badge/stack-JS%20%7C%20PHP%20%7C%20Dart-0d0d0d?style=for-the-badge" alt="Stack"/>
+  <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=views&color=00ff9f&style=for-the-badge" alt="Views"/>
+</p>
+
+---
 
 ![Juuwuwmyr](https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/github.png "Juuwuwmyr")
 
