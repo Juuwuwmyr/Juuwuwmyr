@@ -1,5 +1,5 @@
 <!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=220&text=Juuwuwmyr&fontSize=65&color=0:0d0d0d,100:00ff9f&fontColor=00ff9f&animation=twinkling&fontAlignY=40&desc=Full-stack%20%7C%20Mobile%20Developer%20%7C%20PH&descSize=18&descFontColor=00cfff&descAlignY=62" alt="Header" width="100%" />
+<img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/header.png" alt="Header" width="100%" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=17&duration=2200&pause=700&color=00FF9F&center=true&vCenter=true&width=700&lines=%3E+Booting+Juuwuwmyr.exe+............+OK;%3E+Loading+stack%3A+JS+%7C+TS+%7C+PHP+%7C+Dart+%7C+Python;%3E+Location+detected%3A+Naujan%2C+Oriental+Mindoro+%5BPH%5D;%3E+Projects%3A+OSAS_WEB+%7C+E-CDN+%7C+E-UtangMate;%3E+Status%3A+Open+to+collaboration+_;%3E+Connection+established+%E2%96%88" alt="Typing intro" />
