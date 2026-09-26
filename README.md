@@ -1,19 +1,21 @@
+<!-- matrix header -->
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=80&pause=2000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=01001010+01110101+01110101+01110111+01110101+01110111+01101101+01111001+01110010;10110100+11001010+00110101+10101010+11010101+00101010+10101101+01010110+10101011" alt="binary" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=55&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=Juuwuwmyr" alt="name" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=80&pause=2000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=11010010+01001010+10110101+01001011+10100101+10110100+10101101+01011010+10110101;00101101+10100101+01001010+11010100+01010011+10101100+10010101+01101010+01011010" alt="binary" />
 
-<!-- header -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Juuwuwmyr&fontSize=60&color=0:0d0d0d,100:00ff9f&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=Full-stack%20%2526%20Mobile%20Developer&descSize=18&descFontColor=00cfff&descAlignY=65" alt="Header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Booting+Juuwuwmyr.exe+...;%5BSYS%5D+Full-stack+%26+Mobile+Developer;%5BSYS%5D+Location%3A+Naujan%2C+Oriental+Mindoro+%5BPH%5D;%5BSYS%5D+Status%3A+Building+school+systems+%26+community+tools;%5BSYS%5D+Access+granted+_" alt="typing" />
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=800&color=00FF9F&center=true&vCenter=true&width=640&lines=%3E+initializing+Juuwuwmyr.exe...;%3E+Full-stack+%26+mobile+developer;%3E+Naujan%2C+Oriental+Mindoro+%5BPH%5D;%3E+Building+school+systems+%26+community+tools" alt="Typing intro" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Juuwuwmyr"><img src="https://img.shields.io/badge/@Juuwuwmyr-00ff9f?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="GitHub"/></a>
+  <a href="https://github.com/Juuwuwmyr"><img src="https://img.shields.io/badge/@Juuwuwmyr-00ff41?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="GitHub"/></a>
   <a href="https://jumyrmoreno.infinityfreeapp.com/"><img src="https://img.shields.io/badge/portfolio-00cfff?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/stack-JS%20%7C%20PHP%20%7C%20Dart-0d0d0d?style=for-the-badge" alt="Stack"/>
-  <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=views&color=00ff9f&style=for-the-badge" alt="Views"/>
+  <img src="https://img.shields.io/badge/stack-JS%20%7C%20PHP%20%7C%20Dart-0d0d0d?style=for-the-badge&color=0d0d0d&labelColor=00ff41" alt="Stack"/>
+  <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=views&color=00ff41&style=for-the-badge" alt="Views"/>
 </p>
 
 ---
@@ -46,10 +48,8 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
-
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
-
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
@@ -81,7 +81,7 @@ $ echo $OPEN_TO
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juuwuwmyr&theme=radical" alt="Profile summary" />
 </p>
 
-
+---
 
 ### `featured.repos`
 
@@ -142,8 +142,8 @@ $ echo $OPEN_TO
 
 ⭐️ From [Juuwuwmyr](https://github.com/Juuwuwmyr)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&animation=twinkling" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0d0d0d,100:00ff41&height=80&section=footer&text=_&fontSize=1&fontColor=00ff41&animation=twinkling" alt="Footer" width="100%" />
 
 <p align="center">
-  <code>console.log("Let's build something useful.");</code>
+  <code>// console.log("Access granted. Let's build something useful.");</code>
 </p>
