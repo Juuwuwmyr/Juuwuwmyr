@@ -16,7 +16,7 @@
 
 ## Hi I'm Juuwuwmyr 👋
 
-![Juuwuwmyr](https://github.com/Juuwuwmyr/Juuwuwmyr/blob/main/github_cover.png "Juuwuwmyr")
+![Juuwuwmyr](https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/github_cover.png "Juuwuwmyr")
 
 
 ### My Tech Stack
@@ -80,13 +80,7 @@ $ echo $OPEN_TO
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juuwuwmyr&theme=radical" alt="Profile summary" />
 </p>
 
-### `metrics.svg` <sub><sup>updated daily via Actions</sup></sub>
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
----
 
 ### `featured.repos`
 
