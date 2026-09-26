@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=views&color=00ff9f&style=for-the-badge" alt="Views"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/divider.png" width="100%" />
 
 ![Juuwuwmyr](https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/github.png "Juuwuwmyr")
 
@@ -46,7 +46,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
----
+<img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/divider.png" width="100%" />
 
 ### `git status --life`
 
@@ -61,7 +61,7 @@ $ echo $OPEN_TO
 > School systems, POS, and student-facing products
 ```
 
----
+<img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/divider.png" width="100%" />
 
 ### `analytics.json`
 
@@ -75,7 +75,7 @@ $ echo $OPEN_TO
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juuwuwmyr&theme=radical" alt="Profile summary" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/divider.png" width="100%" />
 
 ### `featured.repos`
 
@@ -104,7 +104,7 @@ $ echo $OPEN_TO
 <summary><code>ls ~/repos</code> — all public repositories</summary>
 
 | Project | Language |
-| --- | --- |
+| <img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/divider.png" width="100%" /> | <img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/divider.png" width="100%" /> |
 | [20minutes_a_day_learning_new_language](https://github.com/Juuwuwmyr/20minutes_a_day_learning_new_language) | — |
 | [20minutes_a_day_learning_new_language-python](https://github.com/Juuwuwmyr/20minutes_a_day_learning_new_language-python) | Python |
 | [2_player_tetris](https://github.com/Juuwuwmyr/2_player_tetris) | — |
@@ -132,7 +132,7 @@ $ echo $OPEN_TO
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
+<img src="https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/divider.png" width="100%" />
 
 ⭐️ From [Juuwuwmyr](https://github.com/Juuwuwmyr)
 
