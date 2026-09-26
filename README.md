@@ -16,7 +16,7 @@
 
 ## Hi I'm Juuwuwmyr 👋
 
-![Juuwuwmyr](https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/github_cover.png "Juuwuwmyr")
+![Juuwuwmyr](https://raw.githubusercontent.com/Juuwuwmyr/Juuwuwmyr/main/blob/main/github_cover.png "Juuwuwmyr")
 
 
 ### My Tech Stack
