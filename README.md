@@ -12,54 +12,48 @@
   <img src="https://komarev.com/ghpvc/?username=Juuwuwmyr&label=views&color=8b5cf6&style=for-the-badge" alt="Views"/>
 </p>
 
-<!-- code-styled profile -->
+---
+
+## Hi I'm Juuwuwmyr 👋
+
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Developer animation" />
 
-### `developer.config.ts`
+:computer: *Full-stack & mobile developer* &nbsp;:desert_island: Living in Naujan, Oriental Mindoro :philippines:
 
-```typescript
-export default {
-  name: "Jumyr M. Moreno",
-  handle: "@Juuwuwmyr",
-  role: "Full-stack & mobile developer",
-  location: "Naujan, Oriental Mindoro, PH",
-  portfolio: "https://jumyrmoreno.infinityfreeapp.com/",
+### My Tech Stack
 
-  stack: {
-    languages: ["JavaScript", "TypeScript", "PHP", "Dart", "Python", "Blade"],
-    frontend: ["React", "HTML", "CSS"],
-    backend: ["Node.js", "Laravel"],
-    mobile: ["Flutter"],
-    tools: ["Git", "VS Code", "Vercel"],
-  },
+#### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 
-  focus: [
-    "Student affairs & school web apps",
-    "Finance / POS utilities",
-    "Mobile utang & delivery tools",
-  ],
+#### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
 
-  shipping: [
-    { repo: "OSAS_WEB", stack: "JavaScript" },
-    { repo: "E-CDN", stack: "JavaScript", live: "https://colegio-de-naujan.vercel.app" },
-    { repo: "EUT_WEB", stack: "Laravel / Blade" },
-    { repo: "E-UtangMate", stack: "Dart / Flutter" },
-    { repo: "RENOPHP", stack: "PHP" },
-    { repo: "Space-war-DSA", stack: "DSA practice" },
-  ],
+#### Backend & Mobile
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff)
 
-  learning: ["Advanced DSA", "Laravel patterns", "Flutter state management"],
-  openTo: ["Collaboration on education & community projects"],
-} as const;
-```
+#### Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br clear="right"/>
 
-### `npm run skills`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,dart,flutter,python,html,css,git,vscode,bash,vercel&perline=7" alt="Skills" />
-</p>
+---
 
 ### `git status --life`
 
@@ -88,7 +82,13 @@ $ echo $OPEN_TO
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juuwuwmyr&theme=radical" alt="Profile summary" />
 </p>
 
+### `metrics.svg` <sub><sup>updated daily via Actions</sup></sub>
 
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
+---
 
 ### `featured.repos`
 
@@ -145,12 +145,12 @@ $ echo $OPEN_TO
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+---
+
+⭐️ From [Juuwuwmyr](https://github.com/Juuwuwmyr)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=80&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=fff&animation=twinkling" alt="Footer" width="100%" />
 
 <p align="center">
   <code>console.log("Let's build something useful.");</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Juuwuwmyr">@Juuwuwmyr</a>
 </p>
